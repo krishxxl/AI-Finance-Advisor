@@ -1,0 +1,7 @@
+#sample instance of transcations and their format
+
+Date, Merchant, Amount, Description, Category
+2025-06-18,Amazon,4805.23,Books and supplies,Shopping
+2025-06-30,Spotify,876.39,Live event,Entertainment
+2025-05-02,Apollo,3813.99,Lab test,Health
+2025-06-02,MakeMyTrip,1309.0,Hotel reservation,Travel
